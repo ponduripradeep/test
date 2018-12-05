@@ -1,3 +1,4 @@
+```bash
 ├── bash_scripts
 │   ├── csv_output.sh
 │   ├── data_load.sh
